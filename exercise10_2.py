@@ -58,4 +58,5 @@ for key, val in list(dictionary_hours.items()):
 lst.sort()                              # Sorts by hour
 
 for key, val in lst:
+
     print(key, val)
